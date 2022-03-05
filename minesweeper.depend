@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1606686429 source:d:\projects\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"tile.h"
+	"board.h"
+
+1606697516 source:d:\projects\minesweeper\tile.c
+	"tile.h"
+
+1606660901 d:\projects\minesweeper\tile.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1606687123 source:d:\projects\minesweeper\board.c
+	"board.h"
+
+1606682356 d:\projects\minesweeper\board.h
+	"tile.h"
+	<SDL2/SDL_ttf.h>
+
